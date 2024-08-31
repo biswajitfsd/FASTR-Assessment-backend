@@ -1,5 +1,7 @@
-To run local server use <code>
-composer install
+To run local php server ( http://localhost:8000 ) 
 
-composer start
-</code>
+use
+
+<code>composer install</code>
+
+<code>composer start</code>
